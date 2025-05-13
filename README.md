@@ -1,12 +1,6 @@
 <h1 align="center">Hi 👋, I'm Chandan Shaha</h1>
 <h3 align="center">🚀 A Passionate Full Stack Java Developer</h3>
 
-<p align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/236119160-976a0405-caa7-470c-9356-16d43402ea0a.gif" width="400" alt="coding" />
-</p>
-
----
-
 ### 🧑‍💻 About Me
 
 - 🌱 Always learning new technologies in **Java, Spring Boot, and React**
@@ -52,13 +46,3 @@
 - Users can explore and interact with music tracks  
 - Secure authentication with JWT tokens  
 - Paginated and filterable REST API design
-
----
-
-### 📈 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=YourUsername&show_icons=true&locale=en" alt="GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YourUsername&layout=compact" alt="Top Languages" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=YourUsername" alt="GitHub Streak" />
-</p>
