@@ -7,7 +7,7 @@
 - 💬 Ask me about: `Java`, `Spring`, `REST APIs`, `React`, `MySQL`, `JWT`, `Git`
 - 📫 Reach me at: **shahachandan97@gmail.com**
 - 📞 Phone: +91 7387995058  
-- 🔗 [LinkedIn](https://www.linkedin.com) • [GitHub](https://github.com/YourUsername) • Portfolio: Coming Soon
+- 🔗 [LinkedIn](https://www.linkedin.com) • [GitHub](https://github.com/ChandanShaha) • Portfolio: (https://chandanshaha.github.io/)
 
 ---
 
