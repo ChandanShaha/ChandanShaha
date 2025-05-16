@@ -35,7 +35,7 @@
 
 ### 🚀 Featured Projects
 
-#### 🔷 [Blog Application – TechTalent Network](https://github.com/YourUsername/TechTalent-Network)
+#### 🔷 [Blog Application – TechTalent Network](https://github.com/ChandanShaha/TechTalent-Network)
 > Tech Stack: Spring Boot | Spring Security | JPA | JWT | REST APIs | Swagger  
 - Role-based login (User/Admin) using Spring Security + JWT  
 - RESTful APIs with pagination and layered architecture  
